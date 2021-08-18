@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	border: none;
+	font-family: cursive;
+}
+
+.getInfo {
+	background-color: #fc1;
+	font-size: 1.6em;
+	color: #fff;
+	padding: 10px;
+	border-radius: 20px;
+	display: block;
+	margin: 20px auto;
+	cursor: pointer;
+}
+
+.mostrarInfo {
+	margin: auto;
+	text-align: center;
+	color: #1c4;
+	font-size: 1.3em;
+}
